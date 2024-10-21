@@ -1,0 +1,52 @@
+[
+    {
+        "id": 101,
+        "cover": "https://i.ibb.co.com/wBY8fy9/rsz-1pexels-cottonbro-5052851.jpg",
+        "title": "Whispers of the Forgotten",
+        "author": "Lena Hart",
+        "author_img": "https://example.com/author1.jpg",
+        "posted_date": "2024-10-01",
+        "reading_time": 15,
+        "hashtags": "#Fiction #Mystery #Adventure"
+    },
+    {
+        "id": 102,
+        "cover": "https://i.ibb.co.com/pnGP830/rsz-pexels-rdne-4911017.jpg",
+        "title": "Beyond the Stars",
+        "author": "Raj Patel",
+        "author_img": "https://example.com/author2.jpg",
+        "posted_date": "2024-09-15",
+        "reading_time": 20,
+        "hashtags": "#SciFi #Space #Exploration"
+    },
+    {
+        "id": 103,
+        "cover": "https://i.ibb.co.com/WyxCMJ0/rsz-1pexels-rdne-5779600.jpg",
+        "title": "The Art of Solitude",
+        "author": "Maya Chen",
+        "author_img": "https://example.com/author3.jpg",
+        "posted_date": "2024-08-10",
+        "reading_time": 10,
+        "hashtags": "#SelfHelp #Mindfulness #Wellbeing"
+    },
+    {
+        "id": 104,
+        "cover": "https://i.ibb.co.com/TmrftQv/pexels-pixabay-267389.jpg",
+        "title": "Echoes of History",
+        "author": "James Holloway",
+        "author_img": "https://example.com/author4.jpg",
+        "posted_date": "2024-07-25",
+        "reading_time": 25,
+        "hashtags": "#History #Documentary #Education"
+    },
+    {
+        "id": 105,
+        "cover": "https://i.ibb.co.com/JmV0jd0/rsz-1pexels-pixabay-265667.jpg",
+        "title": "Culinary Journeys",
+        "author": "Sofia Gomez",
+        "author_img": "https://example.com/author5.jpg",
+        "posted_date": "2024-06-30",
+        "reading_time": 30,
+        "hashtags": "#Cooking #Recipes #Foodie"
+    }
+]
